@@ -14,3 +14,9 @@ HTML (NOT A PROGRAMMING LANGUAGE)
 CSS (ALSO NOT A PROGRAMMING LANGUAGE)
 JAVASCRIPT
 https://images.app.goo.gl/umUHdVH368HxyfoP8 (NOW THATS A PROGRAMMING LANGUAGE)
+
+
+Now I am beginning to learn how to use this feature 😂
+I wanted to attempt to redo the steps without guidance
+To help to solidify the information. Next I plan to 
+Begin to add rough html documents to play with and learn.
